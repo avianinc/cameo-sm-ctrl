@@ -1,0 +1,19 @@
+.element {
+	cursor: pointer;
+}
+
+div#simulationValues {
+	pointer-events: none;
+	position: absolute;
+	font-size: 12px;
+	text-align: center;
+	background: #ffffcd;
+	z-index: 5;
+	display: none;
+	padding: 5px 5px;
+	box-shadow: 0 0 0 1px #eee;
+}
+
+div#simulationValues.active {
+	display: block;
+}
