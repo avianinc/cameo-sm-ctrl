@@ -1,4 +1,4 @@
-# noVNC access to CSM 10.0SP4, jupyterlab, and demo script to control CSM behaviors levereging selenium  #
+# noVNC access to CSM 19.0SP4, jupyterlab, and demo script to control CSM behaviors levereging selenium  #
 
 FROM ubuntu:20.04
 #FROM openjdk:11
